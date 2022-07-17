@@ -19,7 +19,7 @@ there are many features like,<br />
 15. dark and light mode<br />
 16. theme setting<br />
 
-(live)[https://syncfusion-deshbord-project-mahadidev7.netlify.app/]
+[live](https://syncfusion-deshbord-project-mahadidev7.netlify.app/)
 <br />
 
 what does the way to run this project?<br />
