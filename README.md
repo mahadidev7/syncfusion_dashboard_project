@@ -26,4 +26,4 @@ what does the way to run this project?<br />
 1. Download this peoject<br />
 2. extract to file<br />
 3. this project open terminal and run "npm i"<br />
-4. run npm "start"<br />
+4. run "npm start"<br />
